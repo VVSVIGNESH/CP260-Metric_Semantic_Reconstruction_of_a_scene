@@ -133,7 +133,7 @@ project/
 │
 ├── data/
 │   ├── images/
-│   └── poses.json
+│       └── poses.json
 │
 ├── outputs/
 │   ├── answers.json
@@ -173,7 +173,7 @@ data/
 │   ├── frame_000461.png
 │   ├── ...
 │
-└── poses.json
+    └── poses.json
 ```
 
 The pipeline automatically reads:
@@ -347,9 +347,9 @@ Potential future extensions include:
 # Author
 
 ### Veera Subrahmanya Vignesh Vemula
+### Raju Bhookya
 
 CP260 — Robotic Perception  
-IIIT Trichy
 
 ---
 
