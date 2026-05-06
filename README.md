@@ -346,8 +346,11 @@ Potential future extensions include:
 
 # Author
 
-### Veera Subrahmanya Vignesh Vemula
-### Raju Bhookya
+### Veera Subrahmanya Vignesh Vemula (26950)
+### Raju Bhookya (25076)
+
+
+IISc Bangalore
 
 CP260 — Robotic Perception  
 
